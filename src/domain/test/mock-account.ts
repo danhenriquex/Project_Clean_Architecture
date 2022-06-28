@@ -1,5 +1,5 @@
 import { faker } from "@faker-js/faker";
-import { AccountModel } from "../models/account-model";
+import { AccountModel } from "../models";
 import { AuthenticationParams } from "../usecases/authentication";
 import * as uuid from "uuid";
 
