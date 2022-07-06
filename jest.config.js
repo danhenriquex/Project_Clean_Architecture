@@ -4,9 +4,9 @@ module.exports = {
     '**/*.{js,jsx,ts,tsx}',
   ],
   coverageDirectory: 'coverage',
-  testEnvironment: 'node',
+  testEnvironment: 'jsdom',
   transform: {
-    '^.+\\.tsx?$': 'ts-jest',
+    '^.+\\.(ts|tsx)?$': 'ts-jest',
   },
   moduleNameMapper: {
     '@/(.*)': '<rootDir>/src/$1'
