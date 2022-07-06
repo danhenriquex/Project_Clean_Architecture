@@ -4,7 +4,7 @@ Uma das maneiras mais comuns de modularizar um programa rico em informações é
 
 # Descrição
 
-Este projeto consiste na implementação de um sistema em ReactJS utilizando Typescript, Hooks e seguindo as melhores metodologias do mercado como CI/CD e como fazer para manter nosso código sempre limpo, organizado e bem estruturado. Alguns conteúdos avançados foram utilizados como: Design Patterns, Clean Architecture, SOLID, DRY, KISS, YAGNI e TDD. 
+Este projeto consiste na implementação de um sistema em ReactJS utilizando Typescript, Hooks e seguindo as melhores metodologias do mercado e como fazer para manter nosso código sempre limpo, organizado e bem estruturado. Alguns conteúdos avançados foram utilizados como: Design Patterns, Clean Architecture, SOLID, DRY, KISS, YAGNI e TDD. 
 
 O sistema possui: Login, Cadastro, Lista de Enquetes, Responder uma Enquete e Resultado da Enquete.
 
