@@ -1,6 +1,6 @@
 # Clean Architecture Project
 
-Uma das maneiras mais comuns de modularizar um programa rico em informações é separá-lo em três grandes camadas: presentation (UI), domain logic (aka business logic) e data access. Portanto, você costuma ver aplicativos da Web divididos em uma camada da Web que sabe como lidar com solicitações HTTP e renderizar HTML, uma camada de lógica de negócios que contém validações e cálculos e uma camada de acesso a dados que classifica como gerenciar dados persistentes em um banco de dados ou serviços remotos .
+Uma das maneiras mais comuns de modularizar um programa rico em informações é separá-lo em três grandes camadas: presentation (UI), domain logic (aka business logic) e data access. Portanto, você costuma ver aplicativos da Web divididos em uma camada da Web que sabe como lidar com solicitações HTTP e renderizar HTML, uma camada de lógica de negócios que contém validações e cálculos e uma camada de acesso a dados que classifica como gerenciar dados persistentes em um banco de dados ou serviços remotos.
 
 # Descrição
 
